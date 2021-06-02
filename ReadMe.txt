@@ -8,7 +8,7 @@ clustering, sales prediction, key influencers and a decomposition tree.
 and Cook's distance. In addition to those methods, three ways to visualize outliers are supported: Scatter plot, box plot
 and density plot.
 
-The second folder is an open data tool to visualize and filter NGOs based on location and analyze the dataset from the government.
+The second folder is an open data tool to visualize and filter NGOs based on location and analyze the dataset provided by the local government.
 
 The third folder is a sales analysis dashboard using corporate data to obtain KPIs and analyze sales performance by
 product, region, country, year,etc.
