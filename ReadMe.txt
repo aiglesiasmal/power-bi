@@ -1,4 +1,4 @@
-Some of the files in this repository are not in Power BI format as they recquire R Studio packages for visualization,
+Some of the files in this repository are not in Power BI format as they recquire R Studio packages for visualization to show correctly,
 and that could cause difficulties for visualizations. Therefore, they are shown in a PDF format. 
 
 The first folder has two files:
